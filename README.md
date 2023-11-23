@@ -3,11 +3,13 @@
 ## Course Project: Data Visualization in Python
 ### University of Economics Ho Chi Minh City (UEH)
 
+![UEH Logo](direct_link_to_ueh_logo_image)
+
 ---
 
-![Electric Vehicles](link_to_electric_vehicle_image)
-
 **Project Topic:** *Electric Vehicle Car Analysis in Washington DC*
+
+![Electric Vehicle in DC](direct_link_to_electric_vehicle_image_in_dc)
 
 This project is part of the Data Visualization course at the UEH University. It focuses on the analysis and visualization of electric vehicle usage and trends in Washington DC.
 
@@ -26,9 +28,7 @@ The primary dataset used in this project is `Electric_Vehicle_Population_Data_20
 
 ### Visualization Previews
 Here are some previews of the visualizations created during this project:
-
-![Visualization Preview 1](link_to_visualization_preview_1)
-![Visualization Preview 2](link_to_visualization_preview_2)
+[Include previews of visualizations here, with direct image links]
 
 ### How to Run
 To run the project:
@@ -37,5 +37,3 @@ To run the project:
 3. Open the Jupyter Notebook and run the cells.
 
 🚗 **Join us in exploring the exciting world of electric vehicles and their impact on modern urban environments!** 🌍
-
-
