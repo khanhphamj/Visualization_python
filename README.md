@@ -28,10 +28,6 @@ The primary dataset used in this project is `Electric_Vehicle_Population_Data_20
 - **Libraries:** Matplotlib, Seaborn, Plotly
 - **IDE:** Jupyter Notebook
 
-### Visualization Previews
-Here are some previews of the visualizations created during this project:
-[Include previews of visualizations here, with direct image links]
-
 ### How to Run
 To run the project:
 1. Clone the repository.
