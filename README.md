@@ -3,13 +3,15 @@
 ## Course Project: Data Visualization in Python
 ### University of Economics Ho Chi Minh City (UEH)
 
-![UEH Logo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fvi.m.wikipedia.org%2Fwiki%2FT%25E1%25BA%25ADp_tin%3ALogo_UEH_xanh.png&psig=AOvVaw37gRO1a-hW4iyiMzrnkVme&ust=1700815171368000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCMD2_rLc2YIDFQAAAAAdAAAAABAE)
+![image](https://github.com/khanhphamj/Visualization_python/assets/120659979/854d0175-0cf4-4bf7-af5b-5faba23bc3f4)
+
 
 ---
 
 **Project Topic:** *Electric Vehicle Car Analysis in Washington DC*
 
-![Electric Vehicle in DC](https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.hertz.com%2Fcontent%2Fdam%2Fhertz%2Fglobal%2Fblog-articles%2Fautomotive%2Frange-anxiety-article%2Fimages%2FHeader.jpg&tbnid=KnuD9-HME0RaBM&vet=12ahUKEwjhjfrY3NmCAxX8a_UHHZ7TD-UQMygDegQIARBx..i&imgrefurl=https%3A%2F%2Fwww.hertz.com%2Fus%2Fen%2Fblog%2Felectric-vehicles%2Felectric-cars-range-anxiety-and-how-to-beat-it&docid=Mcza33a7cNvscM&w=7802&h=3713&q=electric%20vehicle%20&ved=2ahUKEwjhjfrY3NmCAxX8a_UHHZ7TD-UQMygDegQIARBx)
+![image](https://github.com/khanhphamj/Visualization_python/assets/120659979/c2dc04a1-5643-4076-9c9f-ad99892def1c)
+
 
 This project is part of the Data Visualization course at UEH University. It focuses on the analysis and visualization of electric vehicle usage and trends in Washington DC.
 
